@@ -1,0 +1,9 @@
+Descripción: (Memento)
+Permite volver a estados anteriores del sistema
+
+
+Utilización:
+- Se necesite restaurar el sistema desde estados pasados.
+- Se quiera facilitar el hacer y deshacer de determinadas operaciones, 
+para lo que habrá que guardar los estadosanteriores de los objetos sobre 
+los que se opere (o bien recordar los cambios de forma incremental).

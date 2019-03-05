@@ -1,0 +1,11 @@
+Descripción: (Factory Method)
+Centraliza en una clase constructora la creación de objetos de un subtipo 
+de un tipo determinado, ocultando al usuario la casuística para elegir 
+el subtipo que crear.
+
+
+Utilización:
+- Una clase no puede anticipar el tipo de objeto que debe crear y 
+quiere que sus subclases especifiquen dichosobjetos.
+- Hay clases que delegan responsabilidades en una o varias subclases.
+- Una aplicación es grande y compleja y posee muchos patrones creacionales.

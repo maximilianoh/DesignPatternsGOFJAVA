@@ -1,0 +1,15 @@
+Descripción: (Abstract Factory)
+Permite trabajar con objetos de distintas familias de manera 
+que las familias no se mezclen entre sí y haciendo 
+transparente el tipo de familia concreta que se esté usando.
+
+
+Utilización:
+- La aplicación debe ser independiente de como se crean, se componen y se 
+representan sus productos.
+- Un sistema se debe configurar con una de entre varias familias de 
+productos.
+- Una familia de productos relacionados están hechos para utilizarse 
+juntos (hay que hacer que esto se cumpla).
+- Para ofrecer una librería de clases, mostrando sólo sus interfaces y no 
+sus implementaciones

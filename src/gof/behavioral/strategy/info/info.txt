@@ -1,0 +1,13 @@
+Descripción: (Strategy)
+Permite disponer de varios métodos para resolver un problema y elegir 
+cuál utilizar en tiempo de ejecución.
+
+
+Utilización:
+- Un programa tiene que proporcionar múltiples variantes de un algoritmo o
+ comportamiento.
+- Es posible encapsular las variantes de comportamiento en clases 
+separadas que proporcionan un modo consistentede acceder a los 
+comportamientos.
+- Permite cambiar o agregar algoritmos, independientemente de la clase 
+que lo utiliza

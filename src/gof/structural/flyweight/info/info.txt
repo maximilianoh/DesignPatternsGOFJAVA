@@ -1,0 +1,10 @@
+Descripción: (Flyweight)
+Reduce la redundancia cuando gran cantidad de objetos que poseen 
+idéntica información
+
+
+Utilización:
+- Para eliminar o reducir la redundancia cuando se tiene gran 
+cantidad de objetos que contienen la misma información.
+- Cuando la memoria es crítica para el rendimiento de la aplicación.
+- La aplicación no depende de la identidad de los objetos.

@@ -1,0 +1,13 @@
+Descripción: (Adapter)
+Adapta una interfaz para que pueda ser utilizada por una clase que de 
+otro modo no podría utilizarla
+
+
+Utilización:
+- Se quiere utilizar una clase que llame a un método a través de una 
+interface, pero se busca utilizarlo con una clase que no implementa 
+ese interface.
+- Se busca determinar dinámicamente que métodos de otros objetos 
+llama un objeto.
+- No se quiere que el objeto llamado tenga conocimientos de la otra 
+clase de objetos.

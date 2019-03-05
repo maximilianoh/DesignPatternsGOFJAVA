@@ -1,0 +1,13 @@
+Descripción: (Observer)
+Define una dependencia de uno-a-muchos entre objetos, de forma que
+cuando un objeto cambie de estado se notifique y actualicen 
+automáticamente todos los objetos que dependen de él.
+
+
+Utilización:
+- Un objeto necesita notificar a otros objetos cuando cambia su estado. 
+La idea es encapsular estos aspectos enobjetos diferentes permite variarlos 
+y reutilizarlos independientemente.
+- Cuando existe una relación de dependencia de uno a muchos que puede 
+requerir que un objeto notifique a múltiplesobjetos que dependen de él 
+cuando cambia su estado.

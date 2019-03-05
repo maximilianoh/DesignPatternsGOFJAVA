@@ -1,0 +1,24 @@
+Descripción: (Proxy)
+Mantiene un representante de un objeto
+
+
+Utilización:
+- Se necesite retrasar el coste de crear e inicializar un objeto 
+hasta que es realmente necesario.
+- Se necesita una referencia a un objeto más flexible o sofisticada 
+que un puntero.
+- Algunas situaciones comunes de aplicación son:
+	-	Proxy remoto: representa un objeto en otro espacio de direcciones. 
+		Esto quiere decir que el proxy será utilizado de manera tal que la 
+	  	conexión con el objeto remoto se realice de forma controlada sin 
+	   	saturar el servidor.
+	-	Proxy virtual: crea objetos costosos por encargo. Cuando se 
+		utiliza un software no siempre se cargan todas lasopciones por 
+		default. Muchas veces se habilitan ciertos módulos sólo cuando 
+		el usuario decide utilizarlos.
+	-	Proxy de protección: controla el acceso a un objeto. Controla 
+		derechos de acceso diferentes.
+	-	Referencia inteligente: sustituto de un puntero que lleva a cabo 
+		operaciones adicionales cuando se accede a unobjeto (ej. contar 
+		el número de referencias, cargar un objeto persistente en 
+		memoria, bloquear el objeto para impedir acceso concurrente, ...).

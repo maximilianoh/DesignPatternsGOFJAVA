@@ -1,0 +1,10 @@
+Descripción: (Builder)
+Abstrae el proceso de creaciónde un objeto complejo, centralizando 
+dicho proceso en un único punto.
+
+
+Utilización:
+- Independizar el algoritmo de creación de un objeto complejo de las 
+partes que constituyen el objeto y cómo se ensamblan entre ellas.
+- Que el proceso de construcción permita distintas representaciones 
+para el objeto construido, de manera dinámica

@@ -1,0 +1,11 @@
+Descripción: (Facade)
+Provee de una interfaz unificada simple para acceder a una interfaz o 
+grupo de interfaces de un subsistema.
+
+
+Utilización:
+- Se quiera proporcionar una interfaz sencilla para un subsistema complejo.
+- Se quiera desacoplar un subsistema de sus clientes y de otros subsistemas, 
+haciéndolo más independiente y portable.
+- Se quiera dividir los sistemas en niveles: las fachadas serían el punto 
+de entrada a cada nivel. Facade puede ser utilizado a nivel aplicación.

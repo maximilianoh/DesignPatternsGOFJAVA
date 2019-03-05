@@ -1,0 +1,10 @@
+Descripción: (State)
+Permite que un objeto modifique su comportamiento cada vez que cambie 
+su estado interno
+
+
+Utilización:
+- El comportamiento de un objeto depende de un estado, y debe 
+cambiar en tiempo de ejecución según elcomportamiento del estado.
+- Cuando las operaciones tienen largas sentencias con múltiples ramas 
+que depende del estado del objeto.

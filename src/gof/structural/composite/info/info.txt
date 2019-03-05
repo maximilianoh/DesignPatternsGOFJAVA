@@ -1,0 +1,8 @@
+Descripción: (Composite)
+Permite tratar objetos compuestos como si de uno simple se tratase
+
+
+Utilización:
+- Se busca representar una jerarquía de objetos como “parte-todo”.
+- Se busca que el cliente puede ignorar la diferencia entre objetos 
+primitivos y compuestos (para que pueda tratarlosde la misma manera).

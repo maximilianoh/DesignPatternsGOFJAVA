@@ -1,0 +1,17 @@
+DCompositeescripción: (Bridge)
+Desacopla una abstracción de su implementación.
+
+
+Utilización:
+- Se desea evitar un enlace permanente entre la abstracción 
+y su implementación. Esto puede ser debido a que la implementación 
+debe ser seleccionada o cambiada en tiempo de ejecución.
+- Tanto las abstracciones como sus implementaciones deben ser 
+extensibles por medio de subclases. En este caso, el patrón Bridge 
+permite combinar abstracciones e implementaciones diferentes y extenderlas 
+independientemente.
+- Cambios en la implementación de una abstracción no deben impactar en 
+los clientes, es decir, su código no debe tener que ser recompilado.
+- Se desea compartir una implementación entre múltiples y este hecho 
+debe ser escondido a los clientes.
+- Permite simplificar jerarquías demasiado pobladas

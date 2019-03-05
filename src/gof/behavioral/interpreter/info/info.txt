@@ -1,0 +1,9 @@
+Descripción: (Interpreter)
+Dado un lenguaje, define una gramática para dicho lenguaje, así como 
+las herramientas necesarias para interpretarlo.
+
+
+Utilización:
+-  se debe utilizar cuando hay un lenguaje que interpretar y se puede 
+interpretar sus palabras como árboles sintácticos abstractos. Para ello, 
+la gramática debe ser simple.

@@ -1,0 +1,12 @@
+Descripción: (Iterator)
+Permite realizar recorridos sobre objetos compuestos independientemente 
+de la implementación de estos.
+
+
+Utilización:
+- Una clase necesita acceder al contenido de una colección sin llegar 
+a ser dependiente de la clase que es utilizadapara implementar la 
+colección, es decir sin tener que exponer su representación interna.
+- Una clase necesita un modo uniforme de acceder al contenido de varias 
+colecciones.
+- Cuando se necesita soportar múltiples recorridos de una colección

@@ -1,0 +1,12 @@
+Descripción: (Chain of Responsibility)
+Permite establecer la línea que deben llevar los mensajes para que 
+los objetos realicen la tarea indicada.
+
+
+Utilización:
+- Las peticiones emitidas por un objeto deben ser atendidas por distintos 
+objetos receptores.
+- No se sabe a priori cual es el objeto que me puede resolver el problema.
+- Cuando un pedido debe ser manejado por varios objetos.
+- El conjunto de objetos que pueden tratar una petición debería ser 
+especificado dinámicamente

@@ -1,0 +1,10 @@
+Descripción: (Singleton)
+Garantiza la existencia de una única instancia para una clase y la 
+creación de un mecanismo de acceso global a dicha instancia. 
+Tener cuidado en ambientes multihilos.
+
+
+Utilización:
+- Cuando debe haber exactamente una instancia de una clase y deba ser 
+accesible a los clientes desde un punto de acceso conocido.
+- Se requiere de un acceso estandarizado y conocido públicamente.

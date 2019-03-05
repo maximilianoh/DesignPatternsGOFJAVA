@@ -1,0 +1,14 @@
+Descripción: (Visitor)
+Permite definir nuevas operaciones sobre una jerarquía de clases 
+sin modificar las clases sobre las que opera
+
+
+Utilización:
+- Una estructura de objetos contiene muchas clases de objetos con 
+distintas interfaces y se desea llevar a cabooperaciones sobre estos 
+objetos que son distintas en cada clase concreta.
+- Se quieren llevar a cabo muchas operaciones dispares sobre objetos 
+de una estructura de objetos sin tener queincluir dichas operaciones 
+en las clases.
+- Las clases que definen la estructura de objetos no cambian, pero 
+las operaciones que se llevan a cabo sobre ellas

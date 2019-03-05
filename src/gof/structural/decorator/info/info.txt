@@ -1,0 +1,8 @@
+Descripción: (Decorator)
+Añade funcionalidad a una clase dinámicamente
+Cuando hay explosión de clases (muchas clases combinadas)
+
+Utilización:
+- Hay una necesidad de extender la funcionalidad de una clase, pero 
+no hay razones para extenderlo a través de laherencia.
+- Se quiere agregar o quitar dinámicamente la funcionalidad de un objeto

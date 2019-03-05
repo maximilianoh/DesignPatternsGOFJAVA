@@ -1,0 +1,10 @@
+Descripción: (Prototype)
+crea nuevos objetos clonándolos de una instancia ya existente
+
+
+Utilización:
+- Las clases a instanciar sean especificadas en tiempo de ejecución.
+- Los objetos a crear tienen características comunes, en cuanto a 
+los valores de sus atributos.
+- Se quiera evitar la construcción de una jerarquía Factory paralela 
+a la jerarquía de clases de producto.

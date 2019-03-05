@@ -1,0 +1,13 @@
+Descripción: (Template Method)
+Define en una operación el esqueleto de un algoritmo, delegando en 
+las subclases algunos de sus pasos, esto permite que las subclases 
+redefinan ciertos pasos de un algoritmo sin cambiar su estructura
+Orden de ejecución.
+
+Utilización:
+- Se quiera factorizar el comportamiento común de varias subclases.
+- Se necesite implementar las partes fijas de un algoritmo una sola vez 
+y dejar que las subclases implementen las partes variables.
+- Se busque controlar las ampliaciones de las subclases, 
+convirtiendo en métodos plantillas aquéllos métodos que pueden 
+ser redefinidos

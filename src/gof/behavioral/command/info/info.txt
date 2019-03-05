@@ -1,0 +1,16 @@
+Descripción: (Command)
+Permite establecer la línea que deben llevar los mensajes para que 
+los objetos realicen la tarea indicada. Especifica una forma simple de 
+separar la ejecución de un comando, del entorno que generó dicho comando.
+
+
+Utilización:
+- Se necesiten colas o registros de mensajes.
+- Tener la posibilidad de deshacer las operaciones realizadas.  
+- Se necesite uniformidad al invocar las acciones.
+- Facilitar la parametrización de las acciones a realizar.
+- Independizar el momento de petición del de ejecución.
+- El parámetro de una orden puede ser otra orden a ejecutar.
+- Desarrollar sistemas utilizando órdenes de alto nivel que se 
+construyen con operaciones sencillas (primitivas).
+- Se necesite sencillez al extender el sistema con nuevas acciones.
