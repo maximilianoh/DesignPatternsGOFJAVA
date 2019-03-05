@@ -1,7 +1,9 @@
 Descripción: (Facade)
 Provee de una interfaz unificada simple para acceder a una interfaz o 
 grupo de interfaces de un subsistema.
-
+Division conceptual. Facade solo para layer/capas. Encapsula capas.
+Un facade por cada capa. Muchos métodos pero de una o dos líneas.
+Facade suele ser static.
 
 Utilización:
 - Se quiera proporcionar una interfaz sencilla para un subsistema complejo.

@@ -1,7 +1,8 @@
 Descripción: (Chain of Responsibility)
 Permite establecer la línea que deben llevar los mensajes para que 
 los objetos realicen la tarea indicada.
-
+Usado en middleware.
+El ultimo eslabón puede ser un nullObject
 
 Utilización:
 - Las peticiones emitidas por un objeto deben ser atendidas por distintos 
