@@ -2,7 +2,8 @@ Descripción: (Abstract Factory)
 Permite trabajar con objetos de distintas familias de manera 
 que las familias no se mezclen entre sí y haciendo 
 transparente el tipo de familia concreta que se esté usando.
-
+En el ejemplo Familias de productoA y productoB, tienen que tener
+los mismos miembros
 
 Utilización:
 - La aplicación debe ser independiente de como se crean, se componen y se 

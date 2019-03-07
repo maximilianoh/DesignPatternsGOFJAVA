@@ -2,6 +2,7 @@ Descripción: (Factory Method)
 Centraliza en una clase constructora la creación de objetos de un subtipo 
 de un tipo determinado, ocultando al usuario la casuística para elegir 
 el subtipo que crear.
+Cuando solo haya una familia. Simplificacion del abstract Factory.
 
 
 Utilización:
