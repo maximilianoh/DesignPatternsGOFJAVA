@@ -1,6 +1,6 @@
 Descripción: (Memento)
 Permite volver a estados anteriores del sistema
-
+Memento es inmutable
 
 Utilización:
 - Se necesite restaurar el sistema desde estados pasados.
