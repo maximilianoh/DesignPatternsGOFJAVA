@@ -4,9 +4,9 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.jupiter.api.Test;
 
-import gof.behavioral.template.pattern.abstractClass.AbstractClass;
-import gof.behavioral.template.pattern.concreteClass.ConcreteClass;
-import gof.behavioral.template.pattern.concreteClass.ConcreteClass2;
+import gof.behavioral.template.pattern.abstractclass.AbstractClass;
+import gof.behavioral.template.pattern.concreteclass.ConcreteClass;
+import gof.behavioral.template.pattern.concreteclass.ConcreteClass2;
 
 public class TemplateMethodTest {
 	@Test

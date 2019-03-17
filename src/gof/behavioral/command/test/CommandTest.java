@@ -5,7 +5,7 @@ import static org.junit.Assert.assertEquals;
 import org.junit.Test;
 
 import gof.behavioral.command.pattern.command.Command;
-import gof.behavioral.command.pattern.concreteCommand.ConcreteCommand;
+import gof.behavioral.command.pattern.concretecommand.ConcreteCommand;
 import gof.behavioral.command.pattern.invoker.Invoker;
 import gof.behavioral.command.pattern.receiver.ConcreteReceiver;
 import gof.behavioral.command.pattern.receiver.ConcreteReceiver2;

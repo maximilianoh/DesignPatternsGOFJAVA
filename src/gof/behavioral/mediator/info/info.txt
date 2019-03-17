@@ -1,7 +1,8 @@
 Descripción: (Mediator)
 Define un objeto que coordine la comunicación entre objetos de 
 distintas clases, pero que funcionan como un conjunto
-
+Se usa en el FrontController. Por ejemplo en spring es el 
+DispatcherServlet.
 
 Utilización:
 - Un conjunto grande de objetos se comunica de una forma bien definida, 

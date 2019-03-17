@@ -8,7 +8,7 @@ import org.junit.Test;
 import org.junit.jupiter.api.Assertions;
 
 import gof.creational.builder.pattern.builder.Builder;
-import gof.creational.builder.pattern.concreteBuilder.ConcreteBuilder;
+import gof.creational.builder.pattern.concretebuilder.ConcreteBuilder;
 import gof.creational.builder.pattern.director.Director;
 
 public class BuilderTest {

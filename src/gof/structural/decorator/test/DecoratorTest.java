@@ -5,9 +5,9 @@ import static org.junit.Assert.assertEquals;
 import org.junit.jupiter.api.Test;
 
 import gof.structural.decorator.pattern.component.Component;
-import gof.structural.decorator.pattern.concreteComponent.ConcreteComponent;
-import gof.structural.decorator.pattern.concreteDecorator.ConcreteDecoratorA;
-import gof.structural.decorator.pattern.concreteDecorator.ConcreteDecoratorB;
+import gof.structural.decorator.pattern.concretecomponent.ConcreteComponent;
+import gof.structural.decorator.pattern.concretedecorator.ConcreteDecoratorA;
+import gof.structural.decorator.pattern.concretedecorator.ConcreteDecoratorB;
 public class DecoratorTest {
 	@Test
 	public void twoDecorator(){

@@ -2,6 +2,7 @@ Descripción: (Observer)
 Define una dependencia de uno-a-muchos entre objetos, de forma que
 cuando un objeto cambie de estado se notifique y actualicen 
 automáticamente todos los objetos que dependen de él.
+Paradigma reactivo
 
 
 Utilización:

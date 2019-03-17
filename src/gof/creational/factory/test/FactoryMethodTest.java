@@ -6,7 +6,7 @@ import static org.junit.Assert.assertThat;
 import org.junit.Test;
 import org.junit.jupiter.api.Assertions;
 
-import gof.creational.factory.pattern.concreteCreator.ConcreteCreator;
+import gof.creational.factory.pattern.concretecreator.ConcreteCreator;
 import gof.creational.factory.pattern.creator.Creator;
 import gof.creational.factory.pattern.product.Product;
 
