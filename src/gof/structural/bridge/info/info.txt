@@ -1,6 +1,7 @@
 DCompositeescripción: (Bridge)
 Desacopla una abstracción de su implementación.
-
+Este patrón permite modificar las implementaciones de una 
+abstracción en tiempo de ejecución. 
 
 Utilización:
 - Se desea evitar un enlace permanente entre la abstracción 
